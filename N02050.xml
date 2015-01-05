@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:002438_0000_0FDB43EDAA0241D8"/>
-            <pb facs="tcp:002438_0001_0FDB5136EEAB1CF0"/>
+            <pb facs="unknown:002438_0000_0FDB43EDAA0241D8"/>
+            <pb facs="unknown:002438_0001_0FDB5136EEAB1CF0"/>
             <p>
                <hi>Gloria Britannorum:</hi> OR, <hi>The Britiſh</hi> WORTHIES. A POEM. BEING An <hi>Eſſay</hi> on the Characters OF THE Moſt Illuſtrious PERSONS in <hi>Camp</hi> or <hi>Cabinet,</hi> Since the Glorious <hi>Revolu<g ref="char:EOLhyphen"/>tion</hi> to this preſent Time. More Particularly, Of the preſent MINISTRY, un<g ref="char:EOLhyphen"/>der our moſt renowned Sovereign Lord King <hi>GEORGE.</hi>
             </p>
@@ -140,7 +140,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:002438_0002_0FDB5138266E41C0"/>
+            <pb facs="unknown:002438_0002_0FDB5138266E41C0"/>
             <head>Gloria Britannorum.</head>
             <lg>
                <l>SICILIAN Muſe! the rural Strain forbear</l>
@@ -153,7 +153,7 @@
                <l>And you bright Sons of <hi>Harvard</hi> where the Nine,</l>
                <l>And Great <hi>Apollo</hi> conſecrate their Shrine,</l>
                <l>
-                  <pb n="2" facs="tcp:002438_0003_0FDB137666B5D210"/>
+                  <pb n="2" facs="unknown:002438_0003_0FDB137666B5D210"/>
 For Wiſdom fam'd, the rude Attempt excuſe,</l>
                <l>Accept an Off'ring from an Infant Muſe,</l>
                <l>That in Advent'rous Numbers firſt would Sing</l>
@@ -174,7 +174,7 @@ For Wiſdom fam'd, the rude Attempt excuſe,</l>
                <l>Saw the rude Winds impetuous ſwell the Main</l>
                <l>In Storms that round the Warriour rag'd in vain.</l>
                <l>
-                  <pb n="3" facs="tcp:002438_0004_0FDB5139AF213368"/>
+                  <pb n="3" facs="unknown:002438_0004_0FDB5139AF213368"/>
 Embarqu'd in Liberty's Immortal Cauſe,</l>
                <l>WILLIAM the ſacred Sword of Juſtice draws,</l>
                <l>Directs his Courſe for injur'd <hi>Albion</hi>'s Shore</l>
@@ -199,7 +199,7 @@ Embarqu'd in Liberty's Immortal Cauſe,</l>
                <l>Snuffing th' approaching ſcent of Hoſtile Gore</l>
                <l>And ſhews how <hi>Bourbon</hi> might have fall'n before,</l>
                <l>
-                  <pb n="4" facs="tcp:002438_0005_0FDB514188A99EF0"/>
+                  <pb n="4" facs="unknown:002438_0005_0FDB514188A99EF0"/>
 At his ſtern Voice drooping the <hi>Lilly</hi> lies,</l>
                <l>No more the dread of <hi>Europe</hi> now to riſe,</l>
                <l>Pendant ſhe lours, her true Complexion ſhows,</l>
@@ -222,7 +222,7 @@ At his ſtern Voice drooping the <hi>Lilly</hi> lies,</l>
                <l>Long had the haughty French by <hi>Charles</hi> been ſpar'd,</l>
                <l>And <hi>James</hi> in open League with <hi>Rome</hi> appear'd;</l>
                <l>
-                  <pb n="5" facs="tcp:002438_0006_0FDB51466F5DB3B0"/>
+                  <pb n="5" facs="unknown:002438_0006_0FDB51466F5DB3B0"/>
                   <hi>Lewis</hi> without controul his Conqueſts gain'd,</l>
                <l>No Seas had yet with <hi>Gallick</hi> Blood been ſtain'd;</l>
                <l>But now as rons'd from dead lethargick Sleep,</l>
@@ -246,7 +246,7 @@ At his ſtern Voice drooping the <hi>Lilly</hi> lies,</l>
                <l>But O' th' uncertain State of human Things!</l>
                <l>WILLIAM the dread, the Scourge of Tyrant Kings;</l>
                <l>
-                  <pb n="6" facs="tcp:002438_0007_0FDB51480A94F048"/>
+                  <pb n="6" facs="unknown:002438_0007_0FDB51480A94F048"/>
 Muſt to inexorable Fate reſign,</l>
                <l>Whilſt the ſad Nations mourn his Funeral Shrine.</l>
                <l>The time now came that Heaven expedient ſaw,</l>
@@ -270,7 +270,7 @@ Muſt to inexorable Fate reſign,</l>
                   </gap> to Heavens Harmonious train,</l>
                <l>It is decreed that BRUNSWICK'S Line ſhall Reign.</l>
                <l>
-                  <pb n="7" facs="tcp:002438_0008_0FDB5149CC64B2F0"/>
+                  <pb n="7" facs="unknown:002438_0008_0FDB5149CC64B2F0"/>
 To their long Rule no Bound's aſſign'd by Heav'n,</l>
                <l>That Houſe the Powers have endleſs Empire giv'n,</l>
                <l>In them the Engliſh Glory ſhall ſurvive,</l>
@@ -293,7 +293,7 @@ To their long Rule no Bound's aſſign'd by Heav'n,</l>
                <l>Great Soul! ev'n in the lateſt hours of breath,</l>
                <l>Triumphs in <hi>England</hi>'s Glory, ſmiles in Death.</l>
                <l>
-                  <pb n="8" facs="tcp:002438_0009_0FDB514F095ACE50"/>
+                  <pb n="8" facs="unknown:002438_0009_0FDB514F095ACE50"/>
 Of SCHOMBERG next who at the <hi>Boyne</hi> did fall,</l>
                <l>Or RUSSEL who deſtroy'd at Sea the <hi>Gaul,</hi>
                </l>
@@ -318,7 +318,7 @@ Of SCHOMBERG next who at the <hi>Boyne</hi> did fall,</l>
                <l>The Theme's all heavenly, ſacred, all Divine,</l>
             </lg>
             <lg>
-               <pb n="9" facs="tcp:002438_0010_0FDB515025E1CCB8"/>
+               <pb n="9" facs="unknown:002438_0010_0FDB515025E1CCB8"/>
                <l>STANHOPE, for Arms or Arts ſo lately fam'd,</l>
                <l>Shou'd with Eternal Numbers be proclaim'd;</l>
                <l>He may in either Shape be glorious ſhown,</l>
@@ -341,7 +341,7 @@ Of SCHOMBERG next who at the <hi>Boyne</hi> did fall,</l>
                <l>And ſhine with endleſs Glory and Renown.</l>
             </lg>
             <lg>
-               <pb n="10" facs="tcp:002438_0011_0FDB51574301E5C0"/>
+               <pb n="10" facs="unknown:002438_0011_0FDB51574301E5C0"/>
                <l>WHARTON the Young, the Wiſe, of Free<g ref="char:EOLhyphen"/>born Race,</l>
                <l>Whom all the Virtues, all Perfections grace;</l>
                <l>With ſteady Zeal purſues his Country's Cauſe,</l>
@@ -361,7 +361,7 @@ Of SCHOMBERG next who at the <hi>Boyne</hi> did fall,</l>
                <l>PARKER's inimitable Harangues ſhow:</l>
                <l>Which with reſiſtleſs Force unbounded Flow?</l>
                <l>
-                  <pb n="11" facs="tcp:002438_0012_0FDB51586CD13888"/>
+                  <pb n="11" facs="unknown:002438_0012_0FDB51586CD13888"/>
 Shall I ſweet COWPER's heavenly Style re<g ref="char:EOLhyphen"/>hearſe,</l>
                <l>And Sing Encomium's with Eternal Verſe?</l>
                <l>Show JEKYL's florid Parts which 'dorn the Hall,</l>
@@ -386,7 +386,7 @@ Shall I ſweet COWPER's heavenly Style re<g ref="char:EOLhyphen"/>hearſe,</l>
                </l>
                <l>(As if juſt Heaven will'd a deciſive Day)</l>
                <l>
-                  <pb n="12" facs="tcp:002438_0013_0FDB5159E5BDF8D8"/>
+                  <pb n="12" facs="unknown:002438_0013_0FDB5159E5BDF8D8"/>
 With vaunting Pride the <hi>Gaul</hi> came forth to try</l>
                <l>Their Strength in Arms once more, conquer or dye;</l>
                <l>Boaſting Succeſs, furious Efforts they make,</l>
@@ -406,7 +406,7 @@ With vaunting Pride the <hi>Gaul</hi> came forth to try</l>
                <l>Waiting the Charge with numerous Hoſts to join.</l>
             </lg>
             <lg>
-               <pb n="13" facs="tcp:002438_0014_0FDB515B63EDFB98"/>
+               <pb n="13" facs="unknown:002438_0014_0FDB515B63EDFB98"/>
                <l>But now Confed'rate Drums twang thro' the Air</l>
                <l>In ſolemn ſound; the Eccho rings afar</l>
                <l>From Hill to Hill, toſt o'er the tragick Verge,</l>
@@ -426,7 +426,7 @@ With vaunting Pride the <hi>Gaul</hi> came forth to try</l>
                <l>But the loud Shout of Battel now began,</l>
                <l>And ruſhing Sounds of Arms, horrible clang?</l>
                <l>
-                  <pb n="14" facs="tcp:002438_0015_0FDB515CEDC4CFE8"/>
+                  <pb n="14" facs="unknown:002438_0015_0FDB515CEDC4CFE8"/>
 The Battel join'd, loud Thunders rend the Sky.</l>
                <l>Deaths and a thouſand flaming Dangers fly</l>
                <l>Acroſs the Field; Lightning and Storms ariſe,</l>
@@ -450,7 +450,7 @@ The Battel join'd, loud Thunders rend the Sky.</l>
                <l>Where MARLBRO' Triumph'd, there how BRINGFIELD fell.</l>
             </lg>
             <lg>
-               <pb n="15" facs="tcp:002438_0016_0FDB515F52716F80"/>
+               <pb n="15" facs="unknown:002438_0016_0FDB515F52716F80"/>
                <l>The <hi>Gaul</hi> repuls'd, ſtill burn with freſh Deſires,</l>
                <l>And love of Conqueſt every Boſom Fires;</l>
                <l>But they for glorious Conqueſt ſtrive <gap reason="illegible: indecipherable" extent="1 span">
@@ -475,7 +475,7 @@ The Battel join'd, loud Thunders rend the Sky.</l>
                <l>And leave the vanquiſh'd Field the Victors Prey.</l>
             </lg>
             <lg>
-               <pb n="16" facs="tcp:002438_0017_0FDB5160AA915E90"/>
+               <pb n="16" facs="unknown:002438_0017_0FDB5160AA915E90"/>
                <l>Thus have I ſeen a Fleet with well ſpread Sail</l>
                <l>Quit Harbour pompous with a flattering Gale;</l>
                <l>With gilded Pride and Luſtre brave the Day,</l>
@@ -496,7 +496,7 @@ The Battel join'd, loud Thunders rend the Sky.</l>
                <l>Blazon the pompous Field of Battel won,</l>
                <l>Or let the vanquiſh'd <hi>Gaul</hi> before him run;</l>
                <l>
-                  <pb n="17" facs="tcp:002438_0018_0FDB516224BB59D0"/>
+                  <pb n="17" facs="unknown:002438_0018_0FDB516224BB59D0"/>
 Traverſe the Conquer'd Realms, the wide Campaign,</l>
                <l>Thro' Seas of Blood, o'er vaſty Hills of Slain,</l>
                <l>And ſee whole Armies drag the Victor's Chain.</l>
@@ -516,7 +516,7 @@ Traverſe the Conquer'd Realms, the wide Campaign,</l>
                <l>Amazing Scene! What thundering Storms enſue,</l>
                <l>What fiery Hail, what flaky Lightnings flew,</l>
                <l>
-                  <pb n="18" facs="tcp:002438_0019_0FDB5163E47F5A70"/>
+                  <pb n="18" facs="unknown:002438_0019_0FDB5163E47F5A70"/>
 When the fierce Bands in furious Battle join'd</l>
                <l>With force ſuperior, but with braver mind,</l>
                <l>Undaunted Boſoms tempt the Edge of Death,</l>
@@ -538,7 +538,7 @@ When the fierce Bands in furious Battle join'd</l>
                </l>
                <l>Beneath the Victors Thunder fainting fall:</l>
                <l>
-                  <pb n="19" facs="tcp:002438_0020_0FDB516522A504C0"/>
+                  <pb n="19" facs="unknown:002438_0020_0FDB516522A504C0"/>
 Nor Tube nor Trench their rapid Force reſtrain;</l>
                <l>
                   <hi>Britannia</hi>'s Bands the dreadful Entrance gain,</l>
@@ -565,7 +565,7 @@ Nor Tube nor Trench their rapid Force reſtrain;</l>
                <l>No more of <hi>Pompey</hi> now, or <hi>Julius</hi> tell,</l>
                <l>Nor on Great <hi>Ammon</hi>'s Son's vaſt Story dwell,</l>
                <l>
-                  <pb n="20" facs="tcp:002438_0021_0FDB516E60CCF130"/>
+                  <pb n="20" facs="unknown:002438_0021_0FDB516E60CCF130"/>
 MARLBRO' on <hi>Hochſtet</hi>'s glorious Plain did more,</l>
                <l>Than they in all their boaſted Wars before,</l>
                <l>In HIM concentred all that e'er they knew,</l>
@@ -597,7 +597,7 @@ MARLBRO' on <hi>Hochſtet</hi>'s glorious Plain did more,</l>
                <l>Ingenuous, candid, free, of generous Race,</l>
                <l>Mirrour of Wit, adorn'd with e'ery Grace,</l>
                <l>
-                  <pb n="21" facs="tcp:002438_0022_0FDB51706930CCC0"/>
+                  <pb n="21" facs="unknown:002438_0022_0FDB51706930CCC0"/>
 So much his ſweet engaging Charms invite,</l>
                <l>That juſtly he's eſteem'd the Worlds delight.</l>
                <l>When young the Tree, yet choiceſt Fruit appears,</l>
@@ -621,7 +621,7 @@ So much his ſweet engaging Charms invite,</l>
                <l>But O' what Joys perpetual muſt they ſhare,</l>
                <l>Who feel th' effects of his immediate Care!</l>
                <l>
-                  <pb n="22" facs="tcp:002438_0023_0FDB5170C985BA98"/>
+                  <pb n="22" facs="unknown:002438_0023_0FDB5170C985BA98"/>
 Happy the Land that his juſt rule obeys!</l>
                <l>Happy the Realms! where'er his Empire ſways,</l>
                <l>By CAESAR'S rule, Juſtice and Truth abound,</l>
@@ -646,7 +646,7 @@ Happy the Land that his juſt rule obeys!</l>
                <l>Ten thouſand Scenes of Bliſs for <hi>Albion</hi> riſe,</l>
                <l>HANOVER'S Reign <hi>Octavian</hi> Times curvies.</l>
                <l>
-                  <pb n="23" facs="tcp:002438_0024_0FDB5173EC097000"/>
+                  <pb n="23" facs="unknown:002438_0024_0FDB5173EC097000"/>
 Our Fleets ſhall now the furtheſt Coaſts attain,</l>
                <l>Loaden with Wealth ſhall ſafe return again,</l>
                <l>The Product of the World without controul,</l>
@@ -670,7 +670,7 @@ Our Fleets ſhall now the furtheſt Coaſts attain,</l>
                <l>Peace now Triumphant o'er the World ſhall ride,</l>
                <l>And HE the Affairs of <hi>Europe</hi> always guide;</l>
                <l>
-                  <pb n="24" facs="tcp:002438_0025_0FDB5177287A0F80"/>
+                  <pb n="24" facs="unknown:002438_0025_0FDB5177287A0F80"/>
 Then <hi>Mars</hi> ſhall up his murd'ring Engines fold,</l>
                <l>And GEORGE the Balance of the World ſhall hold.</l>
             </lg>
@@ -688,7 +688,7 @@ Then <hi>Mars</hi> ſhall up his murd'ring Engines fold,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="25" facs="tcp:002438_0026_0FDB517BC3BCF478"/>
+            <pb n="25" facs="unknown:002438_0026_0FDB517BC3BCF478"/>
             <head>On the happy <hi>Anniverſary</hi> of His MAJESTY'S <hi>Coronation.</hi>
             </head>
             <lg>
@@ -707,7 +707,7 @@ Then <hi>Mars</hi> ſhall up his murd'ring Engines fold,</l>
                <l>Encamp'd around the Favourite's Chair,</l>
                <l>Triumphing at the Sight.</l>
                <l>
-                  <pb n="26" facs="tcp:002438_0027_0FDB517EB71C6600"/>
+                  <pb n="26" facs="unknown:002438_0027_0FDB517EB71C6600"/>
 How did the Palace ring with Joy!</l>
                <l>Sad Omen to the Rival Boy,</l>
                <l>And all the Tory Crew,</l>
@@ -736,7 +736,7 @@ How did the Palace ring with Joy!</l>
                <l>And ſtill new Songs of Praiſe demand</l>
                <l>From all the tuneful Quire:</l>
                <l>
-                  <pb n="27" facs="tcp:002438_0028_0FDB518025691660"/>
+                  <pb n="27" facs="unknown:002438_0028_0FDB518025691660"/>
 Still may'ſt thou flouriſh, ev'n when old,</l>
                <l>And the firſt Rank of Honour hold,</l>
                <l>And lofty Strains inſpire.</l>
@@ -758,7 +758,7 @@ Still may'ſt thou flouriſh, ev'n when old,</l>
                <l>How wou'd the fainting Muſe ariſe,</l>
                <l>And bear the Victor to the Skies.</l>
                <l>
-                  <pb n="28" facs="tcp:002438_0029_0FDB5180C6C7B3D8"/>
+                  <pb n="28" facs="unknown:002438_0029_0FDB5180C6C7B3D8"/>
 There fam'd NASSAU, and Thouſands more</l>
                <l>Of the great Souls that went before,</l>
                <l>All radiant, all divine appear,</l>
@@ -782,7 +782,7 @@ There fam'd NASSAU, and Thouſands more</l>
                <l>Drown'd in her Tears does penſive mourn,</l>
                <l>And wiſh in vain her Chief's Return.</l>
                <l>
-                  <pb n="29" facs="tcp:002438_0030_0FDB51899D53FAF8"/>
+                  <pb n="29" facs="unknown:002438_0030_0FDB51899D53FAF8"/>
 Immortal Prince! of mighty Fame,</l>
                <l>(Whoſe matchleſs Trophies own the ſame;)</l>
                <l>Thy Deeds around the Globe ſhall ring,</l>
@@ -807,7 +807,7 @@ Immortal Prince! of mighty Fame,</l>
                <l>Send down a Man of Equal Size</l>
                <l>To chear our Hearts and bleſs our Eyes,</l>
                <l>
-                  <pb n="30" facs="tcp:002438_0031_0FDB518AA8D51448"/>
+                  <pb n="30" facs="unknown:002438_0031_0FDB518AA8D51448"/>
 Do you the publick Loſs reſtore,</l>
                <l>For CHURCHILL is to us no more,</l>
                <l>The Man that led our Youths in Arms,</l>
